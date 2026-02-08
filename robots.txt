@@ -1,0 +1,4 @@
+﻿User-agent: *
+Allow: /
+
+Sitemap: https://tristanfuentes.github.io/personal-site/sitemap.xml
